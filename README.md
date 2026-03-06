@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
@@ -84,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
