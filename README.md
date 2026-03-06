@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -137,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
 ## Backtracking
