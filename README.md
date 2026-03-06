@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
