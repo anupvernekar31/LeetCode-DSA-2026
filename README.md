@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0202-happy-number) |
 ## Divide and Conquer
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0876-middle-of-the-linked-list) |
@@ -52,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
