@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0334-increasing-triplet-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
