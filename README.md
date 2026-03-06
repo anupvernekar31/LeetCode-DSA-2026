@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Backtracking
 |  |
 | ------- |
