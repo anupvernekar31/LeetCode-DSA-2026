@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
