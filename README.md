@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
