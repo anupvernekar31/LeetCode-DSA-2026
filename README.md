@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0707-design-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
