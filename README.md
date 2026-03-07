@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
@@ -67,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1189-maximum-number-of-balloons) |
 ## Monotonic Stack
 |  |
@@ -274,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 ## Merge Sort
 |  |
 | ------- |
@@ -283,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0424-longest-repeating-character-replacement) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
