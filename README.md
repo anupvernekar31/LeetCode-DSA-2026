@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0347-top-k-frequent-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
