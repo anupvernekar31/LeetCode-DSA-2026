@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0973-k-closest-points-to-origin) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
