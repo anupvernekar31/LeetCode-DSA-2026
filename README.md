@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0202-happy-number) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
 | ------- |
