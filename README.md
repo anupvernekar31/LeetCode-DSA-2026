@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0876-middle-of-the-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0054-spiral-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
