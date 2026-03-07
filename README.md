@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0215-kth-largest-element-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0234-palindrome-linked-list) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
