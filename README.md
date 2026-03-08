@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1189-maximum-number-of-balloons) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
