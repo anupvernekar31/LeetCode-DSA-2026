@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1189-maximum-number-of-balloons) |
+| [2390-removing-stars-from-a-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
