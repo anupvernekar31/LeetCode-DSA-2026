@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Backtracking
