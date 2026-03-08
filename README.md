@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
@@ -329,9 +330,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0303-range-sum-query-immutable) |
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0707-design-linked-list) |
 ## Union-Find
