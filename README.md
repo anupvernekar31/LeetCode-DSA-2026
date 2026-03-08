@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+| [1512-number-of-good-pairs](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+| [1512-number-of-good-pairs](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
