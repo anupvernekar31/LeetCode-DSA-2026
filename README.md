@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0424-longest-repeating-character-replacement) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0392-is-subsequence) |
