@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0525-contiguous-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
