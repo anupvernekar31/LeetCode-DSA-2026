@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0875-koko-eating-bananas) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1512-number-of-good-pairs](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1512-number-of-good-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0767-reorganize-string) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0054-spiral-matrix) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
