@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0202-happy-number) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0206-reverse-linked-list) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0146-lru-cache) |
 | [0303-range-sum-query-immutable](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0707-design-linked-list) |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
