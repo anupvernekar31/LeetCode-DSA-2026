@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0424-longest-repeating-character-replacement) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0662-maximum-width-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/anupvernekar31/LeetCode-DSA-2026/tree/master/0707-design-linked-list) |
